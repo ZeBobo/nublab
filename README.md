@@ -1,2 +1,2 @@
 # nublab
-No clue what I'm doing.  Just here to try and learn
+No clue what I'm doing.  Just here to try and learn.  Don't even really know where to start...
